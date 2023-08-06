@@ -8,6 +8,7 @@ E-mail: matheus.nalbuquerque@ufn.edu.br
 <p>
 	<a href="https://www.instagram.com/matheus_nogueira.a/" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=Instagram&logoColor=white" /></a> 
 	<a href="https://www.facebook.com/matheus.nogueiraalbuquerque" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+	<a href="https://matheusnogueira.netlify.app/" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/LinkTree-FFFFFF?style=for-the-badge&logo=LinkTree&logoColor=green" /></a> 
 </p>
 
 # <h3>Languages ​​I've used:</h3>
