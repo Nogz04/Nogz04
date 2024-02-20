@@ -18,6 +18,7 @@ E-mail: matheus.nalbuquerque@ufn.edu.br
 	<img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-F05032?style=flat-square&logo=CSS3&logoColor=white" />
   
 </p>
 
