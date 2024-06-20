@@ -3,7 +3,7 @@
 
 <p>Studying Computer Science at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>,  Santa Maria - RS, Brazil.</p>
 
-### Sobre mim
+### About me
 <div style="display: inline_block">
 <p> - 👨‍💻 Atualmente prefiro BackEnd do que FrontEnd haha. </p>
 <p> - 👨‍🎓 Graduando Ciência da Computação. </p>
