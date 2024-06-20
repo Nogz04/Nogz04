@@ -5,7 +5,6 @@
 
 ### Sobre mim
 <div style="display: inline_block">
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Atualmente prefiro BackEnd do que FrontEnd haha. </p>
 <p> - 👨‍🎓 Graduando Ciência da Computação. </p>
 <p> - 🔤 Linguagens que mais utilizo: Java, Python, MySQL, HTML, CSS. </p>
