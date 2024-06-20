@@ -3,35 +3,87 @@
 
 <p>Studying Computer Science at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>,  Santa Maria - RS, Brazil.</p>
 
-## Contact
+### Sobre mim
+<div style="display: inline_block">
+<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<p> - 👨‍💻 Atualmente prefiro BackEnd do que FrontEnd haha. </p>
+<p> - 👨‍🎓 Graduando Ciência da Computação. </p>
+<p> - 🔤 Linguagens que mais utilizo: Java, Python, MySQL, HTML, CSS. </p>
+<p> - 🎮 Curto jogar uns jogos. </p>
+</div>
+
+## Contacts
 E-mail: matheus.nalbuquerque@ufn.edu.br
 <p>
 	<a href="https://www.instagram.com/matheus_nogueira.a/" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=Instagram&logoColor=white" /></a> 
-	<a href="https://www.facebook.com/matheus.nogueiraalbuquerque" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 	<a href="https://matheusnogueira.netlify.app/" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/LinkTree-FFFFFF?style=for-the-badge&logo=LinkTree&logoColor=green" /></a> 
+	<a href="https://www.linkedin.com/in/matheus-nogueira-albuquerque-14abb5275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-# <h3>Languages ​​I've used:</h3>
+# <h3>Languages ​​I've used 😎:</h3>
 
-<p>
-	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-	<img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-01A9DB?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-FF8000?style=flat-square&logo=JAVA&logoColor=white" />
+<div align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+</div>
+
+<p align="center">
+  <a href="#">
+  </a>
+  <a href="#">
+    <img align="center" width="450" src="dev.gif" />
+  </a>
+</p>
+</br>
+</br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nogz04&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
   
 </p>
 
 
 
 # <h3>IDEs/Editors:</h3>
-<p>
-	<a href="https://replit.com/@MatheusNoguei18" target="_blank"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" /></a>
-	<a href="https://code.visualstudio.com/" target_blank"><img  alt="VSCODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-	<a href="https://www.codeblocks.org/downloads/" target_blank"><img  alt="CodeBlocks" src="https://img.shields.io/badge/Code Blocks-FFFFFF.svg?style=for-the-badge&logo=Code Blocks=green&logoColor=white" /></a>
- 	<a href="https://www.jetbrains.com/pt-br/idea/" target_blank"><img  alt="CodeBlocks" src="https://img.shields.io/badge/InteliJ-000000.svg?style=for-the-badge&logo=InteliJ=green&logoColor=black" /></a>
- 
+<div align="center">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+</div>
+
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Nogz04/count.svg" />
+ </p>
 
 </p>
 
