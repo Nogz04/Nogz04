@@ -9,7 +9,7 @@
 <p> - 👨‍🎓 Graduando Ciência da Computação. </p>
 <p> - 🔤 Linguagens que mais utilizo: Java, Python, MySQL, HTML, CSS. </p>
 <p> - 🎮 Curto jogar uns jogos. </p>
-<p> - ⚽️ Gosto de assitir futebol. </p>
+<p> - ⚽️ Gosto de assistir futebol. </p>
 </div>
 
 ## Contacts
