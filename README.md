@@ -5,11 +5,11 @@
 
 ## About me
 <div style="display: inline_block">
-<p> - 👨‍💻 Atualmente prefiro BackEnd do que FrontEnd. </p>
-<p> - 👨‍🎓 Graduando Ciência da Computação. </p>
-<p> - 🔤 Linguagens que mais utilizo: Java, Python, MySQL, HTML, CSS. </p>
-<p> - 🎮 Curto jogar uns jogos. </p>
-<p> - ⚽️ Gosto de assistir futebol. </p>
+<p> - 👨‍💻 Currently I prefer Backend to Frontend. </p>
+<p> - 👨‍🎓 Computer Science student. </p>
+<p> - 🔤 Languages I use the most: Java, Python, MySQL, HTML, CSS. </p>
+<p> - 🎮 I enjoy playing games. </p>
+<p> - ⚽️ I like watching soccer. </p>
 </div>
 
 ## Contacts
