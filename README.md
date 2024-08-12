@@ -80,7 +80,7 @@ E-mail: matheus.nalbuquerque@ufn.edu.br
 
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ ## Total visits to my profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Nogz04/count.svg" />
  </p>
