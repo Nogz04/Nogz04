@@ -7,7 +7,7 @@
 <div style="display: inline_block">
 <p> - 👨‍💻 Currently I prefer backend to frontend. </p>
 <p> - 🖥️ Computer Science student. </p>
-<p> - 🔤 Languages I use the most: Java, Python, MySQL, HTML, CSS. </p>
+<p> - 🔤 Languages I use the most: Java, Python, SQL, HTML, CSS, JS. </p>
 <p> - 🎮 I enjoy playing games. </p>
 <p> - ⚽️ I like watching soccer. </p>
 </div>
