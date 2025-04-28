@@ -5,11 +5,11 @@
 
 ## About me
 <div style="display: inline_block">
-<p> - 👨‍💻 Currently I prefer gays to normal people. </p>
-<p> - 🏳️‍🌈 Computer Science student. </p>
+<p> - 👨‍💻 Currently I prefer backend to frontend. </p>
+<p> - 🖥️ Computer Science student. </p>
 <p> - 🔤 Languages I use the most: Java, Python, MySQL, HTML, CSS. </p>
-<p> - 🎮 I enjoy playing League of Legends and Beach Tennis. </p>
-<p> - ⚽️ I like watching LubaTV and RaulzitoYT. </p>
+<p> - 🎮 I enjoy playing games. </p>
+<p> - ⚽️ I like watching soccer. </p>
 </div>
 
 ## Contacts
