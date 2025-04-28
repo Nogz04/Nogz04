@@ -9,7 +9,7 @@
 <p> - 🏳️‍🌈 Computer Science student. </p>
 <p> - 🔤 Languages I use the most: Java, Python, MySQL, HTML, CSS. </p>
 <p> - 🎮 I enjoy playing League of Legends and Beach Tennis. </p>
-<p> - ⚽️ I like watching LubaTV. </p>
+<p> - ⚽️ I like watching LubaTV and RaulzitoYT. </p>
 </div>
 
 ## Contacts
