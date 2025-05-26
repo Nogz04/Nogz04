@@ -18,7 +18,7 @@ E-mail: matheus.nalbuquerque@ufn.edu.br
 	<a href="https://www.linkedin.com/in/matheus-nogueira-albuquerque-14abb5275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-# <h3>Programming languages ​​and frameworks I have used:</h3>
+# <h3>Programming languages ​​and frameworks/tools:</h3>
 
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
