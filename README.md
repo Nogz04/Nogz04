@@ -81,11 +81,4 @@ E-mail: matheus.nalbuquerque@ufn.edu.br
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
 </div>
 
-<p align="center"> 
 
-## Total Profile Visits :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Nogz04/count.svg" />
- </p>
-
-</p>
