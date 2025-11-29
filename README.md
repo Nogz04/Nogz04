@@ -25,23 +25,22 @@ E-mail profissional: matheusnogueirati@gmail.com
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     &nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
     &nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
     &nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+	
 </div>
 
 <p align="center">
