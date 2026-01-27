@@ -25,6 +25,8 @@ E-mail profissional: matheusnogueirati@gmail.com
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     &nbsp;&nbsp;&nbsp;
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -70,8 +72,6 @@ E-mail profissional: matheusnogueirati@gmail.com
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg">
-    &nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
     &nbsp;&nbsp;&nbsp;
