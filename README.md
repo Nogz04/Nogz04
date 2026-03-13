@@ -42,6 +42,11 @@ E-mail profissional: matheusnogueirati@gmail.com
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
     &nbsp;&nbsp;&nbsp;
 	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+	&nbsp;&nbsp;&nbsp;
+	<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+
+
+	
 	
 </div>
 
