@@ -11,8 +11,9 @@
 </div>
 
 ## Contacts
-E-mail acadêmico: matheus.nalbuquerque@ufn.edu.br <br>
-E-mail profissional (para vagas e serviços): matheusnogueirati@gmail.com
+Professional email (for vacancies and services): matheusnogueirati@gmail.com
+Academic email: matheus.nalbuquerque@ufn.edu.br <br> 
+
 <p>
 	<a href="https://www.instagram.com/matheus_nogueira.a/" target="_blank"><img alt="Insta" src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=Instagram&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/matheus-nogueira-albuquerque-14abb5275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
